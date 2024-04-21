@@ -2,8 +2,7 @@
 A football card manager game digital edition
 
 -----------
-Repo klónozása saját környezetbe
-
+### Fejlesztői környezet kialakítása
 1. git clone https://access-token-goes-here@github.com/szigetvaris/fm-v6-grande.git
 2. cd fm-v6-grande
 3. Mappa megnyitás VS Code-ban (vagy tetszőleges fejlesztőkörnyezetben)
