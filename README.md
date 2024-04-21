@@ -1,4 +1,4 @@
-# fm-v6-grande
+# Football Manager - Grande Finale
 A football card manager game digital edition
 
 -----------
